@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SubRed.Sub_formats.SubFormats">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <Members>
+      <Method Name="SelectFormat" Hidden="true" />
+      <Method Name="SubFormats" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>CAAAAgBAAAAAAQAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sub formats\SubFormats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubRed.FindChangeForm">
+    <Position X="4" Y="14.25" Width="1.5" />
+    <Members>
+      <Method Name="changeAllButton_Click" Hidden="true" />
+      <Method Name="changeButton_Click" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="FindChangeForm" Hidden="true" />
+      <Method Name="FindChangeForm_FormClosing" Hidden="true" />
+      <Method Name="findTextBox_TextChanged" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Method Name="LoadForm" Hidden="true" />
+      <Method Name="nextButton_Click" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EAAAQAAAECAAEBDAACiAAAACAgAAAAAAAEggAAAIAAE=</HashCode>
+      <FileName>FindChangeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubRed.MainForm">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <Members>
+      <Field Name="aboutToolStripMenuItem" Hidden="true" />
+      <Field Name="actorColumn" Hidden="true" />
+      <Field Name="actorComboBox" Hidden="true" />
+      <Field Name="actorPanel" Hidden="true" />
+      <Field Name="backSubToolStripMenuItem" Hidden="true" />
+      <Method Name="backSubToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="beginColumn" Hidden="true" />
+      <Field Name="beginTextBox" Hidden="true" />
+      <Field Name="boldButton" Hidden="true" />
+      <Method Name="boldButton_Click" Hidden="true" />
+      <Field Name="buttonsPanel" Hidden="true" />
+      <Field Name="cancelSubToolStripMenuItem" Hidden="true" />
+      <Method Name="cancelSubToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="changeEffectButton" Hidden="true" />
+      <Field Name="changeStyleButton" Hidden="true" />
+      <Method Name="changeStyleButton_Click" Hidden="true" />
+      <Method Name="CleanUp" Hidden="true" />
+      <Field Name="clearTagToolStripMenuItem" Hidden="true" />
+      <Method Name="clearTagToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="closeVideoToolStripMenuItem" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="coordToolBarButton" Hidden="true" />
+      <Method Name="copyRow" Hidden="true" />
+      <Method Name="CopyRowFunction" Hidden="true" />
+      <Field Name="copySubToolStripMenuItem" Hidden="true" />
+      <Method Name="copySubToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="cursiveButton" Hidden="true" />
+      <Method Name="cursiveButton_Click" Hidden="true" />
+      <Method Name="cutRow" Hidden="true" />
+      <Method Name="CutRowFunction" Hidden="true" />
+      <Field Name="cutSubToolStripMenuItem" Hidden="true" />
+      <Method Name="cutSubToolStripMenuItem_Click" Hidden="true" />
+      <Method Name="DataGridView_DataLoad" Hidden="true" />
+      <Method Name="dataGridView1_CellClick" Hidden="true" />
+      <Method Name="dataGridView1_MouseClick" Hidden="true" />
+      <Method Name="dataGridView1_SelectionChanged" Hidden="true" />
+      <Method Name="deleteRow" Hidden="true" />
+      <Method Name="DeleteRowFunction" Hidden="true" />
+      <Field Name="deleteSubToolStripMenuItem" Hidden="true" />
+      <Method Name="deleteSubToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="deleteTagToolStripMenuItem" Hidden="true" />
+      <Method Name="deleteTagToolStripMenuItem_Click" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="dublicateRow" Hidden="true" />
+      <Method Name="DublicateRowFunction" Hidden="true" />
+      <Method Name="DurationChange" Hidden="true" />
+      <Field Name="durationTextBox" Hidden="true" />
+      <Field Name="editedSubTextBox" Hidden="true" />
+      <Method Name="editedSubTextBox_TextChanged" Hidden="true" />
+      <Field Name="editEffectButtonPanel" Hidden="true" />
+      <Field Name="editStylesButtonPanel" Hidden="true" />
+      <Field Name="editSubFlowLayoutPanel" Hidden="true" />
+      <Field Name="editToolStripMenuItem" Hidden="true" />
+      <Field Name="effectButton" Hidden="true" />
+      <Field Name="effectColumn" Hidden="true" />
+      <Field Name="effectComboBox" Hidden="true" />
+      <Field Name="effectsToolStripMenuItem" Hidden="true" />
+      <Method Name="effectsToolStripMenuItem_Click" Hidden="true" />
+      <Method Name="Element_MouseLeave" Hidden="true" />
+      <Method Name="Element_MouseMove" Hidden="true" />
+      <Field Name="endColumn" Hidden="true" />
+      <Field Name="endTextBox" Hidden="true" />
+      <Field Name="exitToolStripMenuItem" Hidden="true" />
+      <Method Name="exitToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="fileToolStripMenuItem" Hidden="true" />
+      <Field Name="findAndChangeToolStripMenuItem" Hidden="true" />
+      <Field Name="findSubToolStripMenuItem" Hidden="true" />
+      <Method Name="findSubToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="fontDialog1" Hidden="true" />
+      <Field Name="fontsizeButton" Hidden="true" />
+      <Method Name="fontsizeButton_Click" Hidden="true" />
+      <Method Name="Form1_Load" Hidden="true" />
+      <Method Name="GridSelect" Hidden="true" />
+      <Field Name="imageList1" Hidden="true" />
+      <Field Name="imageList2" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Method Name="inputStylesInToolStripMenuItem_Click" Hidden="true" />
+      <Method Name="InsertAfterFunction" Hidden="true" />
+      <Method Name="insertAfterRow" Hidden="true" />
+      <Method Name="InsertNewAfterFunction" Hidden="true" />
+      <Method Name="insertNewAfterRow" Hidden="true" />
+      <Method Name="InsertNewBeforeFunction" Hidden="true" />
+      <Method Name="insertNewBeforeRow" Hidden="true" />
+      <Field Name="leftColumn" Hidden="true" />
+      <Field Name="leftMaskedTextBox" Hidden="true" />
+      <Field Name="levelColumn" Hidden="true" />
+      <Field Name="levelDomainUpDown" Hidden="true" />
+      <Method Name="loadStyle" Hidden="true" />
+      <Method Name="loadStylesInComboBox" Hidden="true" />
+      <Method Name="MainForm" Hidden="true" />
+      <Field Name="marginPanel" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="moveToolBarButton" Hidden="true" />
+      <Method Name="NewLoad" Hidden="true" />
+      <Field Name="newSubToolBarButton" Hidden="true" />
+      <Field Name="newSubToolStripMenuItem" Hidden="true" />
+      <Method Name="newSubToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="numberColumn" Hidden="true" />
+      <Field Name="numPanel" Hidden="true" />
+      <Field Name="openSubToolBarButton" Hidden="true" />
+      <Field Name="openSubToolStripMenuItem" Hidden="true" />
+      <Method Name="openSubToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="openVideoToolBarButton" Hidden="true" />
+      <Field Name="openVideoToolStripMenuItem" Hidden="true" />
+      <Method Name="openVideoToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="originalCheckBox" Hidden="true" />
+      <Method Name="originalCheckBox_CheckedChanged" Hidden="true" />
+      <Field Name="originalPanel" Hidden="true" />
+      <Field Name="originalSubTextBox" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="panelSubChange" Hidden="true" />
+      <Field Name="panelTable" Hidden="true" />
+      <Field Name="panelVideo" Hidden="true" />
+      <Method Name="ProcessCmdKey" Hidden="true" />
+      <Field Name="putInMSWordToolStripMenuItem" Hidden="true" />
+      <Method Name="putInMSWordToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="putSubToolStripMenuItem" Hidden="true" />
+      <Method Name="putSubToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="renumToolStripMenuItem" Hidden="true" />
+      <Method Name="renumToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="rightColumn" Hidden="true" />
+      <Field Name="rightMaskedTextBox" Hidden="true" />
+      <Field Name="rotateToolBarButton" Hidden="true" />
+      <Method Name="RowToString" Hidden="true" />
+      <Field Name="saveAsSubToolStripMenuItem" Hidden="true" />
+      <Method Name="saveAsSubToolStripMenuItem_Click" Hidden="true" />
+      <Method Name="SaveFile" Hidden="true" />
+      <Field Name="saveSubToolBarButton" Hidden="true" />
+      <Field Name="saveSubToolStripMenuItem" Hidden="true" />
+      <Method Name="saveSubToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="selectCrossedToolStripMenuItem" Hidden="true" />
+      <Method Name="selectCrossedToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="settingsToolStripMenuItem" Hidden="true" />
+      <Method Name="settingsToolStripMenuItem_Click" Hidden="true" />
+      <Method Name="ShowErrorMessage" Hidden="true" />
+      <Field Name="sortAndRenumToolStripMenuItem" Hidden="true" />
+      <Method Name="sortAndRenumToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="statusBar1" Hidden="true" />
+      <Field Name="statusBarPanel1" Hidden="true" />
+      <Field Name="statusBarPanel2" Hidden="true" />
+      <Field Name="statusBarPanel3" Hidden="true" />
+      <Field Name="strikeoutButton" Hidden="true" />
+      <Method Name="strikeoutButton_Click" Hidden="true" />
+      <Method Name="StringToRow" Hidden="true" />
+      <Field Name="styleColumn" Hidden="true" />
+      <Field Name="styleComboBox" Hidden="true" />
+      <Field Name="stylesPanel" Hidden="true" />
+      <Field Name="stylesToolStripMenuItem" Hidden="true" />
+      <Method Name="stylesToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="subDataGridView" Hidden="true" />
+      <Field Name="subOnlyToolStripMenuItem" Hidden="true" />
+      <Method Name="subOnlyToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="subToolStripMenuItem" Hidden="true" />
+      <Method Name="tableReNum" Hidden="true" />
+      <Method Name="TableSort" Hidden="true" />
+      <Field Name="textColumn" Hidden="true" />
+      <Method Name="TextStyleInsert" Hidden="true" />
+      <Field Name="timePanel" Hidden="true" />
+      <Field Name="timer1" Hidden="true" />
+      <Method Name="timer1_Tick" Hidden="true" />
+      <Field Name="timer2" Hidden="true" />
+      <Method Name="timer2_Tick" Hidden="true" />
+      <Field Name="toolBar1" Hidden="true" />
+      <Method Name="toolBar1_ButtonClick" Hidden="true" />
+      <Field Name="toolBar2" Hidden="true" />
+      <Method Name="toolBar2_ButtonClick" Hidden="true" />
+      <Field Name="toolBar3" Hidden="true" />
+      <Field Name="toolBarButton1" Hidden="true" />
+      <Field Name="toolBarButton2" Hidden="true" />
+      <Field Name="toolBarButton3" Hidden="true" />
+      <Field Name="toolBarPanel" Hidden="true" />
+      <Field Name="toolStripSeparator1" Hidden="true" />
+      <Field Name="toolStripSeparator2" Hidden="true" />
+      <Field Name="toolStripSeparator3" Hidden="true" />
+      <Field Name="toolStripSeparator4" Hidden="true" />
+      <Field Name="toolTip1" Hidden="true" />
+      <Field Name="trackBar1" Hidden="true" />
+      <Method Name="trackBar1_MouseCaptureChanged" Hidden="true" />
+      <Method Name="trackBar1_MouseDown" Hidden="true" />
+      <Method Name="trackBar1_MouseUp" Hidden="true" />
+      <Field Name="trackBarPanel" Hidden="true" />
+      <Field Name="underlineButton" Hidden="true" />
+      <Method Name="underlineButton_Click" Hidden="true" />
+      <Method Name="UpdateStatusBar" Hidden="true" />
+      <Method Name="UpdateToolBar" Hidden="true" />
+      <Field Name="vertColumn" Hidden="true" />
+      <Field Name="vertMaskedTextBox" Hidden="true" />
+      <Method Name="VideoPictureBoxCreate" Hidden="true" />
+      <Field Name="videoSubOnlyToolStripMenuItem" Hidden="true" />
+      <Method Name="videoSubOnlyToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="videoToolStripMenuItem" Hidden="true" />
+      <Method Name="vlcControl_VlcLibDirectoryNeeded" Hidden="true" />
+      <Field Name="vlcControl1" Hidden="true" />
+      <Field Name="vlcControlPanel" Hidden="true" />
+      <Field Name="volumeTrackBar" Hidden="true" />
+      <Method Name="volumeTrackBar_ValueChanged" Hidden="true" />
+      <Method Name="WndProc" Hidden="true" />
+      <Field Name="автоматизацияToolStripMenuItem" Hidden="true" />
+      <Field Name="видToolStripMenuItem" Hidden="true" />
+      <Field Name="сместитьВремяНаToolStripMenuItem" Hidden="true" />
+      <Method Name="сместитьВремяНаToolStripMenuItem_Click" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="SubRed.MainForm.tableSort">
+        <TypeIdentifier>
+          <NewMemberFileName>MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="SubRed.MainForm.MediaStatus">
+        <TypeIdentifier>
+          <NewMemberFileName>MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Interface Name="SubRed.MainForm.ISettingsInterface">
+        <TypeIdentifier>
+          <NewMemberFileName>MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Interface>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>zf6z1m294a5fpohA+8qfJVn76d7d7qLgXsfg5/Fz2C8=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubRed.PluginBase">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="CheckSub" Hidden="true" />
+      <Method Name="LoadPluginFunction" Hidden="true" />
+      <Method Name="PluginBase" Hidden="true" />
+      <Method Name="TMenu" Hidden="true" />
+      <Method Name="TMenuClick" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="SubRed.PluginBase.PluginDetails">
+        <TypeIdentifier>
+          <NewMemberFileName>PluginBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAIAAAAAAAAREEAAABAAAAAAGAAAAAAAAAA=</HashCode>
+      <FileName>PluginBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubRed.ResizeGridForm">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <Members>
+      <Field Name="changeButton" Hidden="true" />
+      <Method Name="changeButton_Click" Hidden="true" />
+      <Field Name="Column1" Hidden="true" />
+      <Field Name="Column2" Hidden="true" />
+      <Field Name="Column3" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="dataGridView1" Hidden="true" />
+      <Method Name="dataGridView1_CellDoubleClick" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="formShow" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Method Name="LoadForm" Hidden="true" />
+      <Field Name="openButton" Hidden="true" />
+      <Method Name="openButton_Click" Hidden="true" />
+      <Method Name="resize" Hidden="true" />
+      <Method Name="ResizeGridForm" Hidden="true" />
+      <Field Name="xtextBox" Hidden="true" />
+      <Field Name="ytextBox" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAQACgAABBgAADAGAACgAg4AAAAAUAAAIAACEE=</HashCode>
+      <FileName>ResizeGridForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubRed.SettingsForm">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="button1" Hidden="true" />
+      <Method Name="button1_Click" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Method Name="button2_Click" Hidden="true" />
+      <Field Name="button3" Hidden="true" />
+      <Method Name="button3_Click" Hidden="true" />
+      <Field Name="cancelButton" Hidden="true" />
+      <Method Name="cancelButton_Click" Hidden="true" />
+      <Field Name="collisionTextBox" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="filenameLabel" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox2" Hidden="true" />
+      <Field Name="heightTextBox" Hidden="true" />
+      <Method Name="hideButton" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Method Name="LoadSettings" Hidden="true" />
+      <Field Name="nameTextBox" Hidden="true" />
+      <Field Name="openFileDialog1" Hidden="true" />
+      <Field Name="originalScriptTextBox" Hidden="true" />
+      <Field Name="originalTranslationTextBox" Hidden="true" />
+      <Method Name="resize" Hidden="true" />
+      <Field Name="saveButton" Hidden="true" />
+      <Method Name="saveButton_Click" Hidden="true" />
+      <Field Name="scriptTypeTextBox" Hidden="true" />
+      <Method Name="SettingsForm" Hidden="true" />
+      <Field Name="syncTextBox" Hidden="true" />
+      <Field Name="timerTextBox" Hidden="true" />
+      <Field Name="widthTextBox" Hidden="true" />
+      <Field Name="xLabel" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AxABIAAAACwgAJBASBGQQIBCAAI4AAAAAXAQQCAEQAA=</HashCode>
+      <FileName>SettingsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubRed.Subtitle">
+    <Position X="4.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAZABEAAQAIAABAAAgAAAgAABAAMAAAIAAQADAABCGA=</HashCode>
+      <FileName>Subtitle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
